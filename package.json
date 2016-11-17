@@ -1,0 +1,19 @@
+{
+  "name": "katas-tdd",
+  "version": "1.0.0",
+  "description": "collection of katas to be solved with TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealsmeathers/Katas-TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nealsmeathers/Katas-TDD/issues"
+  },
+  "homepage": "https://github.com/nealsmeathers/Katas-TDD#readme"
+}
