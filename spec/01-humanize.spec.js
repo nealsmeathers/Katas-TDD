@@ -28,4 +28,25 @@ describe('humanize', function () {
   it('returns \'ninety nine\' for 99', function () {
     expect(humanize(99)).to.equal('ninety nine');
   });
+  it('returns \'one hundred\' for 100', function () {
+    expect(humanize(100)).to.equal('one hundred');
+  });
+  it('returns \'one hundred and one\' for 101', function () {
+    expect(humanize(101)).to.equal('one hundred and one');
+  });
+  it('returns \'one hundred and ten\' for 110', function () {
+    expect(humanize(110)).to.equal('one hundred and ten');
+  });
+  it('returns \'one hundred and eleven\' for 111', function () {
+    expect(humanize(111)).to.equal('one hundred and eleven');
+  });
+  it('returns \'one hundred and twenty one\' for 121', function () {
+    expect(humanize(121)).to.equal('one hundred and twenty one');
+  });
+  it('returns \'nine hundred and ninety nine\' for 999', function () {
+    expect(humanize(999)).to.equal('nine hundred and ninety nine');
+  });
+  it('returns \'one thousand\' for 1000', function () {
+    expect(humanize(1000)).to.equal('one thousand');
+  });
 });
