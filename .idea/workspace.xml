@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5faf9eab-cf67-4474-9846-055296fcb886" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-goodVsEvil/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-goodVsEvil/goodVsEvil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/02-goodVsEvil.spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01-humanize/humanize.js" afterPath="$PROJECT_DIR$/01-humanize/humanize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/01-humanize.spec.js" afterPath="$PROJECT_DIR$/spec/01-humanize.spec.js" />
     </list>
     <ignored path="Katas-TDD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,22 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,7 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="humanize.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02-goodVsEvil.spec.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/02-goodVsEvil.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#27#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="humanize.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-humanize/humanize.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
@@ -63,11 +61,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="goodVsEvil.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-goodVsEvil/goodVsEvil.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="01-humanize.spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/01-humanize.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#27#57#0" expanded="true" />
@@ -91,6 +99,9 @@
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/spec/01-humanize.spec.js" />
         <option value="$PROJECT_DIR$/01-humanize/humanize.js" />
+        <option value="$PROJECT_DIR$/02-goodVsEvil/README.md" />
+        <option value="$PROJECT_DIR$/02-goodVsEvil/goodVsEvil.js" />
+        <option value="$PROJECT_DIR$/spec/02-goodVsEvil.spec.js" />
       </list>
     </option>
   </component>
@@ -147,6 +158,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-goodVsEvil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Katas-TDD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-humanize" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,12 +279,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479394779258</updated>
-      <workItem from="1479394780708" duration="5995000" />
+      <workItem from="1479394780708" duration="7726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5995000" />
+    <option name="totallyTimeSpent" value="7726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -271,6 +324,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-humanize/humanize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -285,19 +362,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/02-goodVsEvil/README.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="527">
+            <caret line="49" column="109" selection-start-line="49" selection-start-column="109" selection-end-line="49" selection-end-column="109" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -323,10 +398,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02-goodVsEvil/goodVsEvil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/01-humanize.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#27#57#0" expanded="true" />
@@ -334,11 +417,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-humanize/humanize.js">
+    <entry file="file://$PROJECT_DIR$/spec/02-goodVsEvil.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#27#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
